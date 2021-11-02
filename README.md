@@ -1,1 +1,1 @@
-# Game-Monster-Slayer
+# mini-monster-slayer
